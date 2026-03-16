@@ -27,17 +27,3 @@ Discord: [@bunni.fun](<https://discord.com/users/1448712157381398682>)
 ### Tools
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,figma,robloxstudio)](https://skillicons.dev)
-
-## Notable OSS Projects
-
-### [Cascade](https://github.com/wrexlua/Cascade)
-
-UI library framework
-
-### [Myriad](https://github.com/Proton-Utilities/Myriad)
-
-Executor general validity and mitigation test
-
-### [Marionette](https://github.com/wrexlua/Marionette)
-
-A runtime Luau debugger and executor-IDE bridge
